@@ -9,9 +9,7 @@
 | 項目 | 現在値 | 目標値 | 進捗 |
 | :--- | :--- | :--- | :--- |
 | **Weight** | 65.0 kg | **58.0 kg** | [■■□□□□□□□□] |
-| **Height** | 164 cm | - | - |
-| **Main Racket** | Prince PHANTOM 100 | Ocean Blue | Soft Feel |
-| **String** | Black String | - | - |
+
 
 ---
 
