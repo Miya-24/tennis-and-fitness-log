@@ -10,6 +10,13 @@
 | :--- | :--- | :--- | :--- |
 | **Weight** | 65.0 kg | **58.0 kg** | [■■□□□□□□□□] |
 
+---
+
+## 🔄 Operation Cycle (運用フロー)
+
+1. **Daily (Issues)**: ジム、食事、テニスの記録を各Issueテンプレートで投稿。
+2. **Analysis (Gemini)**: Issueの内容をAIコーチ陣に投げ、ディスカッションを行う。
+3. **Weekly (Files)**: 週末にIssueを振り返り、`/summaries/` 内に週間レポートを作成してIssueをCloseする。
 
 ---
 
@@ -29,15 +36,15 @@
 
 ## 📂 Directory Structure
 
-- `/tennis/` : 練習ログ、試合結果、ダブルス戦術メモ
-- `/fitness/` : ジムのトレーニング記録（スクワット・ウッドチョップ等）、体重推移
-- `/tactics/` : 白石コーチの指導内容、改善ポイントの整理
+- `/summaries/` : **[メイン]** 週間ごとのトレーニング・食事・テニスの集約レポート
+- `/tactics/` : 5名のコーチ陣の設定、及び長期的な戦術・指導のまとめ
+- `.github/ISSUE_TEMPLATE/` : 日々の入力用テンプレート（Training / Diet / Tennis）
 
 ---
 
 ## 📝 Activity Log
 
-- **Latest Update**: 2026-02-06 リポジトリ再構築
+- **Latest Update**: 2026-02-06 運用フローを最適化（Issue ⇄ Weekly Summary 方式）
 - **Next Event**: 次回のダブルス大会（日付未定）
 
 ---
