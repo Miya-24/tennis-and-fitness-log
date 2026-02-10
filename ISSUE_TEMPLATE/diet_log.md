@@ -1,6 +1,6 @@
 ---
 name: "🍴 Diet Log (Auto-Calc)"
-about: 食べたものを報告し、コーチに計算させます
+about: 食べたものを報告し、コーチにカロリー計算させます
 title: "[Diet] YYYY-MM-DD"
 labels: diet
 ---
